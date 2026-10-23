@@ -24,7 +24,7 @@
             tariff: 3.0,       // MXN por kWh (promedio de referencia)
             sunHours: 5.5,     // horas de sol pico por día
             performance: 0.8,  // eficiencia global del sistema
-            panelWatts: 550,   // potencia por panel (LONGi 550 W)
+            panelWatts: 620,   // potencia por panel (620 W)
             offset: 0.9,       // fracción del recibo que se estima ahorrar
             maxCells: 40       // paneles dibujados en la visualización
         }
